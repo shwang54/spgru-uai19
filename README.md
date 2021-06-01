@@ -4,6 +4,9 @@ Seong Jae Hwang, Ronak R. Mehta, Hyunwoo J. Kim, Sterling C. Johnson, Vikas Sing
 
 http://pitt.edu/~sjh95/
 
+![poster_png](https://user-images.githubusercontent.com/18518338/120381718-cd770100-c2f0-11eb-8672-746c1a5efd04.png)
+
+
 ## Code
 
 
