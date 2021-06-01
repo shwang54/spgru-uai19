@@ -10,7 +10,7 @@ http://pitt.edu/~sjh95/
 
 
 ## Code
-
+See gru_predictor_controlled_mnist_train_v1.py
 
 ## Data
 1. [Moving Digit MNIST](http://www.cs.toronto.edu/~nitish/unsupervised_video/) from [this paper](http://www.cs.toronto.edu/~nitish/unsup_video.pdf) is essentially built off of the traditional MNIST digits. Various properties of the sequences (e.g., directions, speed, sizes, etc.) can be adjust within the data generator.
